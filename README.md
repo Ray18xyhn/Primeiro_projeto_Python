@@ -37,7 +37,6 @@ app/
 │   ├── icon.png
 │   ├── fonts/
 │   └── page/
-├── Dados/
 ```
 
 ## Tecnologias usadas
